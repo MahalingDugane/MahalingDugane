@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Mahaling Dugane
 
-### 💻 Frontend Developer | Shopify Developer
+### 💻 Frontend Developer | Shopify Developer | JavaScript | React | 1 Year Experience
 
-I'm a Frontend Developer with **1 year of professional experience at Wallstar Technology**.
+I'm a **Frontend Developer with 1 year of professional experience at Wallstar Technology**.
 
 I enjoy building responsive, user-friendly web applications and working with modern frontend technologies.
 
@@ -10,54 +10,68 @@ I enjoy building responsive, user-friendly web applications and working with mod
 
 ## 👨‍💻 About Me
 
-* 💼 **Frontend Developer at Wallstar Technology**
-* 🎯 **1 year of professional experience**
-* 🌐 Interested in Web Development and Shopify
-* ⚛️ Working with React and JavaScript
-* 🛍️ Interested in Shopify development
-* 🐍 Exploring Python and Machine Learning
-* 🌱 Continuously learning new technologies
+* 💼 Currently working as a **Frontend Developer at Wallstar Technology**
+* 📅 **1 year of professional experience**
+* ⚛️ Interested in **React and modern frontend development**
+* 🛍️ Interested in **Shopify development**
+* 💻 Passionate about creating responsive and user-friendly interfaces
+* 🐍 Exploring **Python and Machine Learning**
+* 🌱 Always learning new technologies and improving my development skills
 
 ---
 
 ## 💼 Experience
 
-### Frontend Developer — Wallstar Technology
+### Frontend Developer | Wallstar Technology
 
-**Experience:** 1 Year
+📅 **1 Year Experience**
 
-* Developed and maintained frontend web applications
-* Worked with modern frontend technologies
-* Built responsive and user-friendly interfaces
-* Worked on improving website functionality and user experience
-* Collaborated on development tasks and project requirements
+* Developing responsive and user-friendly web interfaces
+* Working with frontend technologies to build modern web applications
+* Creating reusable UI components
+* Working on website functionality and user experience
+* Fixing bugs and improving existing features
+* Collaborating on project development and requirements
+* Working with Git and GitHub for version control
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🎓 Education
 
-### Frontend
+### 🎓 [Your Degree / Course]
+
+**[Your University Name]**
+
+🏛️ [Your College Name]
+📅 [Start Year] – [End Year]
+
+### 🎓 [12th / Diploma]
+
+**[Your Board / University]**
+
+🏛️ [Your College Name]
+📅 [Start Year] – [End Year]
+
+---
+
+## 🏆 Skills & Technologies
+
+### 💻 Frontend Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 
-### Shopify
+### 🛍️ Shopify
 
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge\&logo=shopify\&logoColor=white)
 
-### Backend / Programming
+### 🐍 Programming
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
 
-### Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
-
-### Tools
+### 🧰 Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
@@ -65,50 +79,72 @@ I enjoy building responsive, user-friendly web applications and working with mod
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🛍️ Shopify Gift Message & Wrapping
+## 🛍️ Shopify Gift Message & Wrapping
 
-A Shopify feature that allows customers to add gift messages and gift wrapping to their orders.
+A Shopify feature that allows customers to add gift-related information to their orders.
 
-**Technologies:** Shopify, JavaScript, React
+### Features
 
----
+* 🎁 Gift wrapping
+* 💌 Gift messages
+* 👤 Recipient information
+* ✍️ Sender information
+* 🛒 Cart integration
 
-### 🧠 Brain Stroke Prediction
-
-A Machine Learning web application for predicting stroke risk using patient information.
-
-**Technologies:** Python, Flask, Scikit-learn, Machine Learning
-
----
-
-## 📚 Currently Learning
-
-* ⚛️ Advanced React
-* 🛍️ Shopify App Development
-* 💻 Modern Frontend Development
-* 🤖 Machine Learning
-* 🐍 Python
+**Tech Stack:** Shopify, JavaScript, React, Liquid
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 Brain Stroke Prediction
+
+A Machine Learning web application that predicts stroke risk based on patient information.
+
+### Features
+
+* 👤 Patient information
+* 🧠 Machine Learning prediction
+* 🌐 Flask web application
+* 📊 Prediction results
+
+**Tech Stack:** Python, Flask, Scikit-learn, Machine Learning
+
+---
+
+# 📊 GitHub Stats
 
 ![MahalingDugane's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahalingDugane\&show_icons=true\&theme=tokyonight)
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=MahalingDugane\&theme=tokyonight)
 
 ---
 
-## 📫 Connect With Me
+# 📚 Currently Learning
+
+* ⚛️ Advanced React
+* 🛍️ Shopify App Development
+* 💻 Modern Frontend Development
+* 🐍 Python
+* 🤖 Machine Learning
+* 🚀 Full Stack Development
+
+---
+
+# 💡 Developer Philosophy
+
+> "Keep learning, keep building, and keep improving."
+
+---
+
+# 📫 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-MahalingDugane-181717?style=for-the-badge\&logo=github)](https://github.com/MahalingDugane)
 
 ---
 
-⭐ Thanks for visiting my profile!
+⭐ **Thanks for visiting my profile!**
