@@ -1,137 +1,187 @@
 # 👋 Hi, I'm Mahaling Dugane
 
-### 💻 Frontend Developer | Shopify Developer | JavaScript | React | 1 Year Experience
-
-I'm a **Frontend Developer with 1 year of professional experience at Wallstar Technology**.
-
-I enjoy building responsive, user-friendly web applications and working with modern frontend technologies.
+### Frontend Developer | Shopify | React | JavaScript | 1 Year Experience
 
 ---
 
 ## 👨‍💻 About Me
 
-* 💼 Currently working as a **Frontend Developer at Wallstar Technology**
-* 📅 **1 year of professional experience**
-* ⚛️ Interested in **React and modern frontend development**
-* 🛍️ Interested in **Shopify development**
-* 💻 Passionate about creating responsive and user-friendly interfaces
-* 🐍 Exploring **Python and Machine Learning**
-* 🌱 Always learning new technologies and improving my development skills
+I am a **Frontend Developer with 1 year of professional experience at Wallstar Technology**, focused on building responsive, modern, and user-friendly web experiences.
+
+I enjoy working with frontend technologies, developing Shopify solutions, creating reusable UI components, and continuously learning new technologies.
+
+**Role:** Frontend Developer
+**Company:** Wallstar Technology
+**Experience:** 1 Year
+**Location:** [Your Location]
+**Email:** [Your Email]
+**GitHub:** [MahalingDugane](https://github.com/MahalingDugane)
 
 ---
 
-## 💼 Experience
+## 🌐 Connect With Me
 
-### Frontend Developer | Wallstar Technology
+<p align="left">
+<a href="https://github.com/MahalingDugane">
+<img src="https://img.shields.io/badge/GitHub-MahalingDugane-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
 
-📅 **1 Year Experience**
-
-* Developing responsive and user-friendly web interfaces
-* Working with frontend technologies to build modern web applications
-* Creating reusable UI components
-* Working on website functionality and user experience
-* Fixing bugs and improving existing features
-* Collaborating on project development and requirements
-* Working with Git and GitHub for version control
+<!-- Add your LinkedIn and portfolio links here -->
 
 ---
 
-## 🎓 Education
+# 🚀 Core Competencies
 
-### 🎓 [Your Degree / Course]
+| 💻 Frontend Development                                                              | 🛍️ Shopify Development                                                     |
+| ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------- |
+| Building responsive and user-friendly interfaces using modern frontend technologies. | Developing Shopify storefront features and custom e-commerce functionality. |
 
-**[Your University Name]**
+| ⚛️ React Development                                 | 🎨 UI Development                                        |
+| ---------------------------------------------------- | -------------------------------------------------------- |
+| Building reusable and maintainable React components. | Creating clean, responsive and user-friendly interfaces. |
 
-🏛️ [Your College Name]
-📅 [Start Year] – [End Year]
-
-### 🎓 [12th / Diploma]
-
-**[Your Board / University]**
-
-🏛️ [Your College Name]
-📅 [Start Year] – [End Year]
+| 🔧 Version Control                                      | 🧠 Problem Solving                                   |
+| ------------------------------------------------------- | ---------------------------------------------------- |
+| Working with Git and GitHub for source-code management. | Debugging issues and developing practical solutions. |
 
 ---
 
-## 🏆 Skills & Technologies
+# 🏆 Engineering Experience & Projects
 
-### 💻 Frontend Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-
-### 🛍️ Shopify
-
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge\&logo=shopify\&logoColor=white)
-
-### 🐍 Programming
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-
-### 🧰 Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+| Area                    | Experience                                                       |
+| ----------------------- | ---------------------------------------------------------------- |
+| 💻 Frontend Development | Building responsive and interactive web interfaces.              |
+| 🛍️ Shopify Development | Working on Shopify features and custom storefront functionality. |
+| ⚛️ React                | Developing reusable frontend components and interfaces.          |
+| 🧩 UI Development       | Creating responsive layouts and improving user experience.       |
+| 🔧 Git & GitHub         | Managing source code and development workflows.                  |
 
 ---
 
-# 🚀 Featured Projects
+# 💻 Featured Projects
 
 ## 🛍️ Shopify Gift Message & Wrapping
 
-A Shopify feature that allows customers to add gift-related information to their orders.
+A Shopify e-commerce feature that allows customers to add gift-related information to their orders.
 
-### Features
+### Highlights
 
-* 🎁 Gift wrapping
-* 💌 Gift messages
+* 🎁 Gift wrapping functionality
+* 💌 Gift message functionality
 * 👤 Recipient information
 * ✍️ Sender information
 * 🛒 Cart integration
+* ⚙️ Shopify storefront customization
 
-**Tech Stack:** Shopify, JavaScript, React, Liquid
+**Tech Stack**
+
+`Shopify` `JavaScript` `React` `Liquid` `HTML` `CSS`
 
 ---
 
 ## 🧠 Brain Stroke Prediction
 
-A Machine Learning web application that predicts stroke risk based on patient information.
+A Machine Learning web application that uses patient information to generate a stroke-risk prediction.
 
-### Features
+### Highlights
 
-* 👤 Patient information
 * 🧠 Machine Learning prediction
 * 🌐 Flask web application
-* 📊 Prediction results
+* 📊 Patient data processing
+* 🔐 User login system
+* 🗄️ Database integration
+* 📈 Prediction result interface
 
-**Tech Stack:** Python, Flask, Scikit-learn, Machine Learning
+**Tech Stack**
 
----
-
-# 📊 GitHub Stats
-
-![MahalingDugane's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahalingDugane\&show_icons=true\&theme=tokyonight)
-
----
-
-# 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=MahalingDugane\&theme=tokyonight)
+`Python` `Flask` `Scikit-learn` `SQLite` `HTML` `CSS` `JavaScript`
 
 ---
 
-# 📚 Currently Learning
+# ⚡ Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
+
+### Shopify
+
+<p>
+<img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
+</p>
+
+### Programming / Backend
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+</p>
+
+### Database
+
+<p>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
+---
+
+# 💼 Experience
+
+## Frontend Developer | Wallstar Technology
+
+📅 **1 Year Experience**
+
+* Developing responsive frontend interfaces
+* Building user-friendly web experiences
+* Working with modern frontend technologies
+* Developing and maintaining website features
+* Debugging and fixing frontend issues
+* Working with Git and GitHub
+* Learning and implementing new frontend technologies
+* Contributing to real-world development projects
+
+---
+
+# 🎓 Education
+
+## 🎓 [Your Degree]
+
+**[Your University]**
+
+🏛️ **[Your College Name]**
+📅 **[Start Year] – [End Year]**
+
+## 🎓 [12th / Diploma]
+
+**[Your Board / University]**
+
+🏛️ **[Your College Name]**
+📅 **[Start Year] – [End Year]**
+
+---
+
+# 🌱 Currently Learning
 
 * ⚛️ Advanced React
 * 🛍️ Shopify App Development
 * 💻 Modern Frontend Development
-* 🐍 Python
+* 🧩 Advanced JavaScript
 * 🤖 Machine Learning
-* 🚀 Full Stack Development
+* 🐍 Python
 
 ---
 
@@ -139,11 +189,49 @@ A Machine Learning web application that predicts stroke risk based on patient in
 
 > "Keep learning, keep building, and keep improving."
 
+I believe that consistent learning, practical experience, and building real-world projects are the best ways to grow as a developer.
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=MahalingDugane&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=MahalingDugane&theme=tokyonight" />
+</p>
+
+---
+
+# 📈 GitHub Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MahalingDugane&theme=tokyo-night" />
+</p>
+
 ---
 
 # 📫 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-MahalingDugane-181717?style=for-the-badge\&logo=github)](https://github.com/MahalingDugane)
+<p align="left">
+
+<a href="https://github.com/MahalingDugane">
+<img src="https://img.shields.io/badge/GitHub-MahalingDugane-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<!-- Add LinkedIn -->
+
+<!-- Add Portfolio -->
+
+<!-- Add Email -->
+
+</p>
 
 ---
 
