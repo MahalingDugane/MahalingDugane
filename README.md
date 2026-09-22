@@ -1,16 +1,77 @@
-## Hi there 👋
+# Hi 👋, I'm Mahaling Dugane
 
-<!--
-**MahalingDugane/MahalingDugane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer | Shopify Developer | Python Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building web applications, Shopify applications, and
+Machine Learning projects.
+
+## 🚀 About Me
+
+- 💻 Interested in Web Development
+- 🛍️ Building Shopify applications
+- 🐍 Working with Python and Flask
+- 🤖 Learning Machine Learning
+- 🌱 Continuously learning new technologies
+- 📚 Improving my development skills
+
+## 🛠️ Technologies & Tools
+
+### Programming Languages
+- JavaScript
+- Python
+- HTML
+- CSS
+
+### Frameworks & Technologies
+- React
+- Flask
+- Shopify
+- Node.js
+
+### Database
+- SQLite
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
+## 🚀 Projects
+
+### 🛍️ Shopify Gift Message & Wrapping
+
+A Shopify feature that allows customers to add:
+
+- Gift messages
+- Recipient information
+- Sender information
+- Gift wrapping
+
+### 🧠 Brain Stroke Prediction
+
+A Machine Learning project that predicts the possibility of stroke using patient information.
+
+Technologies:
+
+- Python
+- Machine Learning
+- Flask
+- Scikit-learn
+
+## 📚 Currently Learning
+
+- Advanced React
+- Shopify App Development
+- Machine Learning
+- Full Stack Development
+
+## 📫 Connect With Me
+
+- GitHub: [@MahalingDugane](https://github.com/MahalingDugane)
+
+---
+
+⭐ Thanks for visiting my profile!
