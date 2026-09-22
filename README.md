@@ -222,21 +222,21 @@ A Machine Learning web application that generates a stroke-risk prediction using
 
 # 🎓 Education
 
-## 🎓 [Your Degree / Course]
+## 🎓 [Bachelor of Engineering (CSE)]
 
-**[Your University Name]**
+**[Visvesvaraya Technological University]**
 
-🏛️ **[Your College Name]**
-📅 **[Start Year] – [End Year]**
+🏛️ **[Government Engineering College, Haveri]**
+📅 **[ 2021 ] – [2025]**
 
 ---
 
-## 🎓 [12th / Diploma]
+## 🎓 [Pre-University (Science)]
 
-**[Your Board / University]**
+**[Kardaga,Science PU College]**
 
-🏛️ **[Your College Name]**
-📅 **[Start Year] – [End Year]**
+🏛️ **[D.S Nadge PU collage,karadga]**
+📅 **[2019 ] – [2021]**
 
 ---
 
