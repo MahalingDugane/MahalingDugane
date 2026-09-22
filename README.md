@@ -15,8 +15,8 @@ I enjoy developing web applications, creating reusable UI components, working wi
 **Role:** Frontend Developer
 **Company:** Wallstar Technology
 **Experience:** 1 Year
-**Location:** [Your Location]
-**Email:** [Your Email]
+**Location:** [Kolhapur]
+**Email:** [Duganemahaling@gmail.com]
 **GitHub:** MahalingDugane
 
 ---
