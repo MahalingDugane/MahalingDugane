@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mahaling Dugane
+                                   # 👋 Hi, I'm Mahaling Dugane
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Frontend+Developer+%7C+Shopify+Developer;React+%7C+JavaScript+%7C+HTML+%7C+CSS;Building+Modern+%26+Responsive+Web+Experiences;1+Year+Professional+Experience" alt="Typing SVG" />
