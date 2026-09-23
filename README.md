@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mahaling Dugane
+
 
 <p align="center">
   <img
