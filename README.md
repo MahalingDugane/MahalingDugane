@@ -1,94 +1,71 @@
-# 👋 Hi, I'm Shivanand Patil
+# 👋 Hi, I'm Mahaling Dugane
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Next.js+%7C+Node.js+%7C+React+Native;AI+%26+LLM+Integration;Building+Scalable+%26+Modern+Applications" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/shivanand43">
-    <img src="https://img.shields.io/badge/GitHub-shivanand43-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Frontend+Developer+%7C+Shopify+Developer;React+%7C+JavaScript+%7C+HTML+%7C+CSS;Building+Modern+%26+Responsive+Web+Experiences;1+Year+Professional+Experience" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Developer** focused on building scalable web applications,
-cross-platform mobile applications, and AI-powered solutions.
+I am a **Frontend Developer with 1 year of professional experience at Wallstar Technology**, focused on building responsive, modern, and user-friendly web experiences.
 
-I enjoy turning complex business requirements into clean, maintainable,
-production-ready applications.
+I enjoy developing web applications, creating reusable UI components, working with Shopify, and learning new technologies.
 
-My current areas of interest include **Next.js, Node.js, React Native,
-REST APIs, AI integrations, and Large Language Models (LLMs).**
-
-- 💻 Full Stack Developer
-- ⚛️ Next.js & React Native Developer
-- 🟢 Node.js & REST API Development
-- 🤖 AI & LLM Integration
-- 🧠 Google Gemini Integration
-- 📱 Cross-Platform Mobile Development
-- 🚀 Building production-ready applications
-- 📍 Bangalore, Karnataka, India
+**Role:** Frontend Developer
+**Company:** Wallstar Technology
+**Experience:** 1 Year
+**Location:** [Your Location]
+**Email:** [Your Email]
+**GitHub:** MahalingDugane
 
 ---
 
-## 🛠️ Tech Stack
+## 🌐 Connect With Me
 
-### 💻 Frontend
+<p align="left">
 
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+<a href="https://github.com/MahalingDugane">
+<img src="https://img.shields.io/badge/GitHub-MahalingDugane-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-### ⚙️ Backend
+<!-- Add your LinkedIn URL below -->
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
-</p>
+<!--
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+-->
 
-### 🤖 AI & LLM
+<!-- Add your portfolio URL below -->
 
-<p>
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLM_Integration-412991?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
+<!--
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+-->
 
-### 🔧 Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ---
 
-# 🚀 What I Build
+# 🚀 Core Competencies
 
 <table>
 <tr>
 <td width="50%">
 
-### 🌐 Web Applications
+### 💻 Frontend Development
 
-Building modern and scalable web applications using **Next.js, React, and Node.js**.
+Building responsive and user-friendly web interfaces using modern frontend technologies.
 
 </td>
 
 <td width="50%">
 
-### 📱 Mobile Applications
+### 🛍️ Shopify Development
 
-Developing cross-platform mobile experiences using **React Native**.
+Developing Shopify storefront features and custom e-commerce functionality.
 
 </td>
 </tr>
@@ -96,17 +73,35 @@ Developing cross-platform mobile experiences using **React Native**.
 <tr>
 <td width="50%">
 
-### 🤖 AI-Powered Applications
+### ⚛️ React Development
 
-Integrating **Generative AI and LLMs** into applications to automate workflows and solve business problems.
+Building reusable and maintainable React components and user interfaces.
 
 </td>
 
 <td width="50%">
 
-### 🔌 API Development
+### 🎨 UI Development
 
-Designing and integrating robust **REST APIs** for scalable applications.
+Creating clean, responsive and user-friendly interfaces.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔧 Version Control
+
+Working with Git and GitHub for source-code management and collaboration.
+
+</td>
+
+<td width="50%">
+
+### 🧠 Problem Solving
+
+Debugging problems and developing practical solutions for real-world applications.
 
 </td>
 </tr>
@@ -114,67 +109,193 @@ Designing and integrating robust **REST APIs** for scalable applications.
 
 ---
 
-# 💼 Professional Experience
+# 🏆 Engineering Experience
 
-## Full Stack Developer
-
-**Intervose Design Pvt Ltd**
-
-📍 Bangalore, Karnataka, India
-
-### Responsibilities
-
-- Developing scalable web applications
-- Building production-ready frontend architectures
-- Developing cross-platform mobile applications
-- Creating and integrating REST APIs
-- Working with Next.js and React
-- Developing backend services using Node.js
-- Integrating AI and LLM capabilities
-- Working with Google Gemini APIs
-- Building AI-powered workflow automations
-- Debugging and optimizing application performance
-- Working with Git and GitHub
-- Contributing to real-world business applications
+| Area                    | Experience                                                      |
+| ----------------------- | --------------------------------------------------------------- |
+| 💻 Frontend Development | Building responsive and interactive web interfaces              |
+| 🛍️ Shopify Development | Developing Shopify features and custom storefront functionality |
+| ⚛️ React                | Creating reusable frontend components                           |
+| 🧩 UI Development       | Building responsive layouts and improving user experience       |
+| 🔧 Git & GitHub         | Version control and project management                          |
+| 🐛 Debugging            | Finding and fixing frontend issues                              |
 
 ---
 
-# 🧠 AI & Generative AI
+# 💻 Featured Projects
 
-I'm particularly interested in applying **Generative AI and LLMs** to
-real-world software applications.
+## 🛍️ Shopify Gift Message & Wrapping
 
-### Areas I'm Exploring
+A Shopify e-commerce feature that allows customers to add gift-related information to their orders.
 
-- 🤖 Large Language Models
-- 🧠 Google Gemini
-- 🔗 LLM API Integration
-- ⚙️ AI Workflow Automation
-- 💬 AI-powered applications
-- 📊 AI-assisted data processing
-- 🚀 AI integration with web applications
+### ✨ Highlights
+
+* 🎁 Gift wrapping
+* 💌 Gift messages
+* 👤 Recipient information
+* ✍️ Sender information
+* 🛒 Cart integration
+* ⚙️ Shopify storefront customization
+
+### 🛠️ Tech Stack
+
+`Shopify` `JavaScript` `React` `Liquid` `HTML` `CSS`
 
 ---
 
-# 📱 Development Focus
+## 🧠 Brain Stroke Prediction
 
-```text
-Frontend
-├── Next.js
-├── React
-├── React Native
-└── JavaScript
+A Machine Learning web application that generates a stroke-risk prediction using patient information.
 
-Backend
-├── Node.js
-└── REST APIs
+### ✨ Highlights
 
-AI
-├── Google Gemini
-├── LLM Integration
-└── Generative AI
+* 🧠 Machine Learning prediction
+* 🌐 Flask web application
+* 📊 Patient data processing
+* 🔐 User login system
+* 🗄️ Database integration
+* 📈 Prediction results
 
-Tools
-├── Git
-├── GitHub
-└── VS Code
+### 🛠️ Tech Stack
+
+`Python` `Flask` `Scikit-learn` `SQLite` `HTML` `CSS` `JavaScript`
+
+---
+
+# ⚡ Tech Stack
+
+## 💻 Frontend
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
+
+## 🛍️ Shopify
+
+<p>
+<img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
+</p>
+
+## 🐍 Programming / Backend
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+</p>
+
+## 🗄️ Database
+
+<p>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+## 🔧 Tools
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
+---
+
+# 💼 Experience
+
+## Frontend Developer | Wallstar Technology
+
+📅 **1 Year Professional Experience**
+
+* Developing responsive frontend interfaces
+* Building modern and user-friendly web experiences
+* Creating reusable UI components
+* Working with frontend technologies
+* Developing and maintaining website features
+* Debugging and fixing frontend issues
+* Working with Git and GitHub
+* Contributing to real-world development projects
+* Continuously learning and improving frontend development skills
+
+---
+
+# 🎓 Education
+
+## 🎓 [Your Degree / Course]
+
+**[Your University Name]**
+
+🏛️ **[Your College Name]**
+📅 **[Start Year] – [End Year]**
+
+---
+
+## 🎓 [12th / Diploma]
+
+**[Your Board / University]**
+
+🏛️ **[Your College Name]**
+📅 **[Start Year] – [End Year]**
+
+---
+
+# 🌱 Currently Learning
+
+* ⚛️ Advanced React
+* 🛍️ Shopify App Development
+* 💻 Modern Frontend Development
+* 🧩 Advanced JavaScript
+* 🤖 Machine Learning
+* 🐍 Python
+* 🚀 Full Stack Development
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MahalingDugane&show_icons=true&theme=tokyonight&hide_border=true" alt="MahalingDugane GitHub Stats" />
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MahalingDugane&theme=tokyonight&hide_border=true" alt="MahalingDugane GitHub Streak" />
+</p>
+
+---
+
+# 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahalingDugane&theme=tokyo-night&hide_border=true" alt="MahalingDugane GitHub Activity Graph" />
+</p>
+
+---
+
+# 💡 Developer Philosophy
+
+> "Keep learning, keep building, and keep improving."
+
+I believe consistent learning, practical experience, and building real-world projects are the best ways to grow as a developer.
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/MahalingDugane">
+<img src="https://img.shields.io/badge/GitHub-MahalingDugane-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  ⭐ <b>Thanks for visiting my profile!</b>
+</p>
